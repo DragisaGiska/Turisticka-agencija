@@ -1,0 +1,17 @@
+c:\users\korisnik\documents\visual studio 2010\Projects\oktobar2015\oktobar2015\bin\Debug\oktobar2015.exe
+c:\users\korisnik\documents\visual studio 2010\Projects\oktobar2015\oktobar2015\bin\Debug\oktobar2015.pdb
+c:\users\korisnik\documents\visual studio 2010\Projects\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.MicrosoftAzzurec.resources
+c:\users\korisnik\documents\visual studio 2010\Projects\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2010\Projects\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2010\Projects\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.exe
+c:\users\korisnik\documents\visual studio 2010\Projects\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2010\Projects\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.csprojResolveAssemblyReference.cache
+C:\Users\DT User\Documents\TMP\rokovi, I kol\oktobar2015\oktobar2015\bin\Debug\oktobar2015.exe
+C:\Users\DT User\Documents\TMP\rokovi, I kol\oktobar2015\oktobar2015\bin\Debug\oktobar2015.pdb
+C:\Users\DT User\Documents\TMP\rokovi, I kol\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.csprojResolveAssemblyReference.cache
+C:\Users\DT User\Documents\TMP\rokovi, I kol\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.MicrosoftAzzurec.resources
+C:\Users\DT User\Documents\TMP\rokovi, I kol\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.Properties.Resources.resources
+C:\Users\DT User\Documents\TMP\rokovi, I kol\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.csproj.GenerateResource.Cache
+C:\Users\DT User\Documents\TMP\rokovi, I kol\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Documents\TMP\rokovi, I kol\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.exe
+C:\Users\DT User\Documents\TMP\rokovi, I kol\oktobar2015\oktobar2015\obj\x86\Debug\oktobar2015.pdb
